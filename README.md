@@ -5,9 +5,9 @@
 Using the ICommanderRepo interface it's possible to create a Repository. In this project the SQL repository is provided.
 
 
-Generic diagram of the repository pattern
+Basic diagram of the repository pattern
 
 
 
 
- [![Repository pattern](https://www.netguru.com/hs-fs/hubfs/repository_pattern.png?width=1499&name=repository_pattern.png)](https://www.netguru.com/hs-fs/hubfs/repository_pattern.png?width=1499&name=repository_pattern.png)
+ [![Repository pattern](https://www.codecompiled.com/wp-content/uploads/2015/07/REPOSITORY-PATTERN-1.png)](https://www.codecompiled.com/wp-content/uploads/2015/07/REPOSITORY-PATTERN-1.png)
